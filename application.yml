@@ -1,0 +1,15 @@
+server:
+  port: 2333
+
+lavalink:
+  server:
+    password: "minhaSenhaForte"  # escolha uma senha forte
+    sources:
+      youtube: true
+      youtubeMusic: true
+      soundcloud: true
+      spotify: false
+
+metrics:
+  prometheus:
+    enabled: false
